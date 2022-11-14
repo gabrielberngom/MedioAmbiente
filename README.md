@@ -1,7 +1,9 @@
 # Proteccion del Medio Ambiente
 ![image](1.PNG)
 ## Introducción 
+La raza humana solo tiene un hogar, el planeta tierra, y poco a poco lo estamos degradando, contaminando, destruyendo.
 
+Si queremos un futuro, necesitamos cuidarlo y cambiar muchas cosas.
 
 ## Contenidos
 - [¿Qué es la protección en el medio ambiente?](proteccion.md)
@@ -14,3 +16,6 @@
 
 ## Licencia
 ![image](licencia.PNG)
+
+
+
