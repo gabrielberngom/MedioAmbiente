@@ -1,5 +1,5 @@
 ## ¿Cuáles son los riesgos ambientales?
-![image](3.PMG)
+![image](3.PNG)
 
 Los riesgos ambientales son factores que favorecen la posibilidad de que el medio experimente daños, dando iguals si dicho daño es provocado por el hombre o por la misma naturaleza.
 
